@@ -1,0 +1,62 @@
+/* Reset */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: inherit;
+}
+
+h1, h2, h3, h4, p {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* Estilo */
+body {
+    color: #64009D;
+    background-color: #111;
+    font-family: sans-serif;
+}
+
+section {
+    max-width: 500px;
+    margin: 2rem auto 0;
+    background-color: #F2F2F2;
+}
+
+tr td:first-child {
+    width: 60px;
+}
+
+td.logo_vivo {
+    vertical-align: top;
+}
+
+td.titulo {
+    width: 180px;
+}
+
+td.titulo h1 {
+    font-size: 1.875rem;
+    line-height: 1;
+}
+
+td.titulo span {
+    display: block;
+    font-weight: normal;
+    font-size: 1.125rem;
+    line-height: 1.5;
+}
