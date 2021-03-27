@@ -60,3 +60,14 @@ td.titulo span {
     font-size: 1.125rem;
     line-height: 1.5;
 }
+
+.conteudo p {
+    margin: 1rem 0;
+    padding-right: 60px;
+    font-size: 1rem;
+    color: #878;
+}
+
+.conteudo p span.roxo {
+    color: #64009D;
+}
