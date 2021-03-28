@@ -20,6 +20,7 @@ ul, li {
 }
 
 img {
+    width: 100%;
     max-width: 100%;
     display: block;
 }
@@ -68,6 +69,25 @@ td.titulo span {
     color: #878;
 }
 
-.conteudo p span.roxo {
+.conteudo .roxo {
     color: #64009D;
+}
+
+.planos td {
+    margin-top: 1rem;
+}
+
+.planos td.icone {
+    width: 80px;
+    padding: 0.5rem 0;
+    vertical-align: top;
+}
+
+.planos h3 {
+    margin-left: 1rem;
+    font-size: 1rem;
+}
+
+.planos p {
+    margin: 0.5rem 0 0 1rem;
 }
