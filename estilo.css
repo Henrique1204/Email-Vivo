@@ -117,3 +117,31 @@ td.titulo span {
     font-size: 0.875rem;
     line-height: 1.5;
 }
+
+.conteudo .qualidades {
+    margin-top: 2rem;
+    padding: 2rem 60px;
+    background-color: #E9E9E9;
+}
+
+.conteudo .qualidades h2 {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.conteudo .qualidades .img_container {
+    width: 80px;
+    margin: 0 auto;
+}
+
+.conteudo .qualidades td {
+    width: 120px;
+    vertical-align: top;
+}
+
+.conteudo .qualidades p {
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    text-align: center;
+}
