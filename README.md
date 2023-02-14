@@ -1,0 +1,1 @@
+ISENÇÃO DE RESPONSABILIDADE: ESTA PÁGINA FOI FEITA COMO UM PROJETO EDUCACIONAL PESSOAL. Este NÃO é o site oficial da empresa ou marca identificada na página. O criador desta página NÃO é afiliado à empresa ou marca de forma alguma. Esta página é um projeto pessoal feito em conexão com um exercício educacional.
